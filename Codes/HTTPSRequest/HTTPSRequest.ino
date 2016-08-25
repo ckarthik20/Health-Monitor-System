@@ -1,8 +1,8 @@
 
 #include <ESP8266WiFi.h>
-const char* ssid     = "Ranirajan";
-const char* password = "sundara2006";
-const char* host = "192.168.1.102";
+const char* ssid     = "";
+const char* password = "";
+const char* host = "";
 const int httpPort = 80;
 String PostData="";
 String PostData1="";
